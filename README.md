@@ -3,6 +3,8 @@
 ## Overview
 This project aims to develop a predictive model for classifying breast cancer tumors as benign or malignant based on various features extracted from digitized images of breast mass tissue. The dataset used in this project contains information on the mean, standard error, and "worst" (mean of the three largest values) of ten different characteristics of the cell nuclei, such as radius, texture, smoothness, compactness, concavity, symmetry, and fractal dimension.
 
+Link to visualize demo of the project on the browser: [Breast Cancer Predictor](https://breast-cancer-predictor.netlify.app/)
+
 ## Project Structure
 - **Data**: This directory contains the dataset used in the project.
 - **Notebooks**: This directory contains Jupyter Notebooks used for data preprocessing, exploratory data analysis, model development, and evaluation.
